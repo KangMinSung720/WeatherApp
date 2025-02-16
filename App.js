@@ -16,7 +16,7 @@ const icons = {
   "Thunderstorm": "lightning",
 }
 
-const API_KEY = "15284dd23d8d6e3521a1ab4a0b814bf3";
+const API_KEY = "";
 
 export default function App() {
   const [city, setCity] = useState("Loading......");
